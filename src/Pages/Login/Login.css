@@ -1,0 +1,16 @@
+.p-login{
+    background-color: rgb(223, 223, 223);
+    height: 100vh;
+}
+.title{
+    padding-top: 20px;
+    text-align: center;
+}
+
+.contine_google{
+    margin: auto 30%;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    border-radius: 20%;
+}

@@ -1,0 +1,10 @@
+.header{
+    text-align: center;
+    border-bottom: gray 2px solid;
+    background-color: white;
+    height: 5vh;
+    width: 100%;
+}
+svg{
+    width: 25px;
+}
